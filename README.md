@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itscyanne
 - 👀 I’m interested in PHP
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently learning PHP.
 - 💞️ I’m looking to collaborate on you.
 - 📫 How to reach me: itscyanne@gmail.com
 
